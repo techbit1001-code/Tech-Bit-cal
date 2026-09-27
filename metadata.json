@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "Functional standard calculator with a secret encrypted vault for hiding photos, videos, and documents, featuring decoy vault protection and recovery PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
